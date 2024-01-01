@@ -118,5 +118,5 @@
 // -----------------------------------------------------------------------------------------------------------------------
 
 // Ques 17
-const result = false || {} || null;
-console.log(result); //{} it takes first positive value
+// const result = false || {} || null;
+// console.log(result); //{} it takes first positive value
